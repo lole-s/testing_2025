@@ -125,10 +125,9 @@ assert mayor(-1, -5) == -1
 ## Material complementario
 
 1. [Python | repaso - Assert](https://www.youtube.com/watch?v=tmRmW31Y2Mw)  
-   
-2. [PyTest](https://www.youtube.com/watch?v=JZ0TMkwMgp8)  
 
-3. [Unittest](https://www.youtube.com/watch?v=cLgyncRraEg)  
+2. [Unit Test](https://www.freerangetesters.com/view/courses/unit-testing-con-python/2109320-introduccion/6652068-unit-testing-y-su-importancia)
+   
 
   
    
