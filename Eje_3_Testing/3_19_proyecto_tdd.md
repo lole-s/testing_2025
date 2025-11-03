@@ -1,28 +1,41 @@
 
-# Proyecto TDD: Función `es_palindrome`
+# Proyecto TDD 
 
-## 1 Requerimientos de la función
+# Ejercicio:  Crea la función `es_palindrome` 
 
-* La función debe aceptar **números o strings**.
-* Devuelve `True` si el input es **palíndromo**.
-* Para **strings**, ignora:
+**Problema: Detectar palíndromos**
 
-  * Espacios
-  * Signos de puntuación
-  * Mayúsculas/minúsculas
-* Devuelve `False` si no es palíndromo.
+Un **palíndromo** es una palabra, número o frase que se lee igual de izquierda a derecha que de derecha a izquierda, ignorando espacios, signos de puntuación y mayúsculas.
 
-### Ejemplos esperados (en español)
+**TAREA:** implementar (mediante la técnica de TDD) una función llamada `es_palindrome` que reciba un **número o string** y devuelva:
 
-| Input                                   | Resultado |
-| --------------------------------------- | --------- |
-| `'oso'`                                 | True      |
-| `'reconocer'`                           | True      |
-| `'anita lava la tina'`                  | True      |
-| `'hola'`                                | False     |
-| `121`                                   | True      |
-| `123`                                   | False     |
-| `'no es palíndromo'`                    | False     |
+* `True` si el valor ingresado es un palíndromo.
+* `False` si no lo es.
+
+### Requerimientos
+
+1. La función debe aceptar tanto **números** como **strings**.
+2. Para strings, **ignorar**:
+
+   * Espacios
+   * Mayúsculas/minúsculas
+   * Signos de puntuación (coma, punto, acentos, etc.)
+3. Para números, evaluar su representación como string.
+4. La función debe ser probada con **tests escritos antes de la implementación** (TDD).
+
+### Ejemplos de uso
+
+| Input                                   | Resultado esperado |
+| --------------------------------------- | ------------------ |
+| `'oso'`                                 | True               |
+| `'reconocer'`                           | True               |
+| `'hola'`                                | False              |
+| `'anita lava la tina'`                  | True               |
+| `121`                                   | True               |
+| `123`                                   | False              |
+| `12321`                                 | True               |
+
+**Tip:** Podés usar métodos de Python como `str()`, `lower()`, y manipular cadenas para eliminar espacios o caracteres especiales antes de comprobar si es palíndromo.
 
 ---
 
@@ -58,6 +71,7 @@ def es_palindrome(valor):
 import pytest
 from src.palindrome import es_palindrome
 
+## completar con todos los tests pertinentes de acuerdo al nomber de las funcinones
 def test_es_palindrome_palabras():
      assert es_palindrome('oso') is True
     
@@ -78,8 +92,6 @@ def test_no_es_palindrome_numeros():
 
 
 ___
-
-Aquí tienes una **introducción amigable** para presentar a los alumnos por qué usar entornos virtuales (venvs), y además un video explicativo que puedes proyectar en clase.
 
 ---
 
