@@ -71,7 +71,8 @@ def es_palindrome(valor):
 import pytest
 from src.palindrome import es_palindrome
 
-## completar con todos los tests pertinentes de acuerdo al nomber de las funcinones
+'''Completar con los tests pertinentes de acuerdo a los nombres de las funcinones
+'''
 def test_es_palindrome_palabras():
      assert es_palindrome('oso') is True
     
@@ -87,6 +88,42 @@ def test_no_es_palindrome_numeros():
         
 
 ```
+---
+
+##  Flujo visual TDD
+
+```
++--------------------+
+| Escribir tests     |
+| (rojo)             |
++--------------------+
+          |
+          v
++--------------------+
+| Ejecutar tests     |
+| Fallan → rojo      |
++--------------------+
+          |
+          v
++--------------------+
+| Implementar función|
+|                     |
++--------------------+
+          |
+          v
++--------------------+
+| Ejecutar tests     |
+| Todos pasan → verde|
++--------------------+
+          |
+          v
++--------------------+
+| Refactorizar       |
+| Opcional           |
++--------------------+
+```
+
+
 
 ---
 
@@ -151,41 +188,6 @@ pytest -q
 
 ```powershell
 pytest --cov=src --cov-report=term-missing -q
-```
-
----
-
-##  Flujo visual TDD
-
-```
-+--------------------+
-| Escribir tests     |
-| (rojo)             |
-+--------------------+
-          |
-          v
-+--------------------+
-| Ejecutar tests     |
-| Fallan → rojo      |
-+--------------------+
-          |
-          v
-+--------------------+
-| Implementar función|
-|                     |
-+--------------------+
-          |
-          v
-+--------------------+
-| Ejecutar tests     |
-| Todos pasan → verde|
-+--------------------+
-          |
-          v
-+--------------------+
-| Refactorizar       |
-| Opcional           |
-+--------------------+
 ```
 
 ---

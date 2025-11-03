@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Eje_3_Testing/practicas/3_18_practica/src",
+        "./Eje_3_Testing/practicas/3_18_practica/src"
+    ]
+}
