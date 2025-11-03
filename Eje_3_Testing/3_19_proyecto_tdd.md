@@ -35,7 +35,15 @@ Un **palíndromo** es una palabra, número o frase que se lee igual de izquierda
 | `123`                                   | False              |
 | `12321`                                 | True               |
 
-**Tip:** Podés usar métodos de Python como `str()`, `lower()`, y manipular cadenas para eliminar espacios o caracteres especiales antes de comprobar si es palíndromo.
+**Tip:** Podés usar métodos de Python como `str()`, `lower()`, y manipular cadenas para eliminar espacios o caracteres especiales antes de comprobar si es palíndromo
+
+recordar que en Python, las cadenas (strings) y listas se pueden “rebanar” usando slicing:
+
+`s[inicio:fin:paso]`
+
+- inicio → posición inicial (por defecto 0)
+- fin → posición final (por defecto hasta el final)
+- paso → cada cuántos elementos avanzar; si es negativo, se recorre al revés
 
 ---
 
