@@ -37,3 +37,21 @@ test('suma 1 + 2 para obtener 3', () => {
 ```
 
 _*lole*_
+
+
+
+## TEMAS EVA_2
+#### 2025-11-12 EVA 2, REC 2025-11-26
+#### TEMAS 
+- Git - Repositorio/Directorio de Trabajo/Area de preparación
+     * comandos basicos: (init/add/log/commit/branch/merge/pull/push) 
+- MarkDown - Que es?
+- Que  es el testing de software? (3-3)
+- Tipos de prueba de software de acuerdo a lo que verifican(3-5)
+- Que es un servidor web? y HTTP?
+- Técnicas de prueba. caja blanca/caja negra
+- Lenguaje Compilado/Interpretado
+- Lenguaje de Tipado Estático/Dinamico
+- Python - Pytest
+- TDD 
+
