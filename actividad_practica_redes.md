@@ -171,10 +171,9 @@ Si todo está bien, se cargará la página **Simon PROA**, pero servida por la o
 # **8. Actividad final / pequeño informe**
 
 Hacer un documento para entregar con un lindo títulos y que contenega los siguientes items:
+- Las IP y MAC de ambos equipos.
+- Captura de pantalla del ping funcionando
+- Foto o captura del Simon PROA cargado desde la otra PC
+- Captura de Wireshark mostrando ARP, ICMP y HTTP
+- Breve explicación (3–5 líneas) de qué significa cliente/servidor
 
-✔ Las IP y MAC de ambos equipos
-✔ Captura de pantalla del ping funcionando
-✔ Foto o captura del Simon PROA cargado desde la otra PC
-✔ Captura de Wireshark mostrando ARP, ICMP y HTTP
-✔ Breve explicación (3–5 líneas) de qué significa cliente/servidor
-# ¿Querés que también prepare una **versión en PDF imprimible** y una **plantilla de informe** para los chicos?
