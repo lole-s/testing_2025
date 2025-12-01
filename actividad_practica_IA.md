@@ -1,7 +1,16 @@
 ## A) ACTIVIDAD INDIVIDUAL
+[SUPERSONICOS](https://www.youtube.com/watch?v=vF1fPjLZNrU)
+
+[IA - TED](https://youtu.be/2U2FN_RQwPs)
+
+[GOOGLE FORM](https://forms.gle/pfFsjEALm7jKr9XC7)
+
 ## B) ACTIVIDAD GRUPAL 
 
-## ** Hoja de trabajo grupal: “Tipos de IA y dilemas éticos”**
+* Entregar 1 documento por grupo. 
+* Realizar una breve exposición grupal 
+
+## **Trabajo grupal: “Tipos de IA y dilemas éticos”**
 
 ### **Grupo N°: ________**
 
@@ -9,7 +18,7 @@
 
 ---
 
-## **1. Tema asignado**
+### **1. Tema asignado**
 
 * □ Modelos de lenguaje (LLM)
 * □ Visión por computadora / reconocimiento facial
@@ -21,7 +30,7 @@
 
 ---
 
-## **2. Descripción breve del tipo de IA asignado (2–3 líneas)**
+### **2. Descripción breve del tipo de IA asignado (2–3 líneas)**
 
 ---
 
@@ -29,7 +38,7 @@
 
 ---
 
-## **3. ¿Dónde se usa hoy este tipo de IA? (marcar 2 opciones reales)**
+### **3. ¿Dónde se usa hoy este tipo de IA? (marcar 2 opciones reales)**
 
 * □ Empresas
 * □ Educación
@@ -42,14 +51,14 @@
 
 ---
 
-## **4. Identifiquen 2 beneficios concretos**
+### **4. Identifiquen 2 beneficios concretos**
 
 * Beneficio 1: _____________________________________
 * Beneficio 2: _____________________________________
 
 ---
 
-## **5. Identifiquen 2 riesgos éticos concretos**
+### **5. Identifiquen 2 riesgos éticos concretos**
 
 *(sesgos, discriminación, vigilancia, reemplazo laboral, uso indebido, etc.)*
 
@@ -58,15 +67,16 @@
 
 ---
 
-## **6. Ejemplo real encontrado por el grupo (noticia o caso)**
+### **6. Ejemplo real encontrado por el grupo (noticia o caso)**
 
 *(Copien un link + 1 línea explicativa)*
+
 Link: ____________________________________
 Resumen: __________________________________
 
 ---
 
-## **7. Discusión del grupo (marcan una opción)**
+### **7. Discusión del grupo (marcan una opción)**
 
 El dilema ético más preocupante de su tipo de IA es:
 
@@ -79,7 +89,7 @@ El dilema ético más preocupante de su tipo de IA es:
 
 ---
 
-## **8. Propuestas del grupo (marcar hasta 2)**
+### **8. Propuestas del grupo (marcar hasta 2)**
 
 Para reducir los riesgos, proponemos:
 
@@ -92,7 +102,7 @@ Para reducir los riesgos, proponemos:
 
 ---
 
-## **9. Una frase o reflexión final del grupo **
+### **9. Una frase o reflexión final del grupo sobre IA**
 
 ---
 
